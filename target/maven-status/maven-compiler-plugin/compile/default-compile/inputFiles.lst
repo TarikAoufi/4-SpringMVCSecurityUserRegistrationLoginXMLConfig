@@ -1,0 +1,11 @@
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\service\impl\UserDetailsServiceImpl.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\service\impl\AuthenticationServiceImpl.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\controller\UserController.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\dao\RoleDao.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\service\UserService.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\validator\UserValidator.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\model\Role.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\model\User.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\dao\UserDao.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\service\AuthenticationService.java
+D:\WorkSpaces\Neon-Spring\SpringSecurityUserRegistrationLoginXMLConfig\src\main\java\fr\aoufi\springmvc\service\impl\UserServiceImpl.java

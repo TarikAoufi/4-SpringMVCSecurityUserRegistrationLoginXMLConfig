@@ -1,0 +1,11 @@
+fr\aoufi\springmvc\service\impl\UserDetailsServiceImpl.class
+fr\aoufi\springmvc\dao\UserDao.class
+fr\aoufi\springmvc\service\impl\AuthenticationServiceImpl.class
+fr\aoufi\springmvc\service\impl\UserServiceImpl.class
+fr\aoufi\springmvc\controller\UserController.class
+fr\aoufi\springmvc\dao\RoleDao.class
+fr\aoufi\springmvc\model\User.class
+fr\aoufi\springmvc\validator\UserValidator.class
+fr\aoufi\springmvc\model\Role.class
+fr\aoufi\springmvc\service\AuthenticationService.class
+fr\aoufi\springmvc\service\UserService.class
